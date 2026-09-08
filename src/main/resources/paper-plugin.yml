@@ -1,0 +1,5 @@
+name: BetterProtocol
+version: '${version}'
+main: org.lugi36.betterprotocol.BetterProtocolPlugin
+bootstrapper: org.lugi36.betterprotocol.BetterProtocolBootstrap
+api-version: '26.2'
